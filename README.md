@@ -55,15 +55,5 @@ Usate StringBuilder per la costruzione della stringa. Convertitela correttamente
 Al contrario, **non è possibile** comunicare o copiare dai compagni di classe.
 
 Il punteggio totale del compito è dato quindi da:
-- ogni casella spuntata e risolto correttamente vale il punteggio indicato
+- ogni casella spuntata e risolta correttamente vale il punteggio indicato
 - le caselle non spuntate valgono 0 punti
-
-## Consegna del compito
-Dieci minuti prima dello scadere del tempo, vi sarà chiesto di cominciare le procedure di consegna.
-
-Procedura di consegna:
-- comprimere la cartella "code": cliccare con il tasto destro sulla cartella e selezionare "Invia a...->Cartella Compressa"
-- rinominare il file appena creato da "code.zip" a "cognome-nome.zip"
-- caricare il file su Moodle
-
-In caso di problemi con Moodle, verrà fatta passare una chiavetta USB.
