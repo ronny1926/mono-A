@@ -47,7 +47,8 @@ Usate StringBuilder per la costruzione della stringa. Convertitela correttamente
 - Push su GitHub: 1 punto
 
 # Note generali
-È **molto importante** che spuntiate le caselle qui sopra, mi servono per capire cosa avete fatto e cosa no.
+È **importante** che spuntiate le caselle qui sopra, mi servono per capire cosa avete fatto e cosa no. Per spuntarle, modificate il file (da interfaccia web o in locale sul vostro computer) e aggiungete una X tra le parentesi quadre, così:
+- [X] voce spuntata
 
 **È possibile** consultare il progetto di esempio che è stato fornito durante la lezione.
 
