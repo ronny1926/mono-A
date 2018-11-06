@@ -7,26 +7,26 @@ In questa cartella trovate il file "wireframe.png" con la porzione di pagina che
 ## Esecuzione del compito
 Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una spunta sulla relativa casella.
 
-- [ ] accedete con il vostro account personale (**non sbagliate password!**)
-- [ ] fate il fork di questo progetto
-- [ ] copiate l'URL al **vostro** progetto
-- [ ] aprite git-bash su Windows
-- [ ] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory)
-- [ ] scaricate il progetto con `git clone <URL-vostro-repo>`
-- [ ] navigate nella cartella appena creata
-- [ ] aprite Esplora Risorse
-- [ ] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
-- [ ] aprite Eclipse
-- [ ] importate il progetto contenuto nella cartella `code`
-- [ ] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
+- [x] accedete con il vostro account personale (**non sbagliate password!**)
+- [x] fate il fork di questo progetto
+- [x] copiate l'URL al **vostro** progetto
+- [x] aprite git-bash su Windows
+- [x] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory)
+- [x] scaricate il progetto con `git clone <URL-vostro-repo>`
+- [x] navigate nella cartella appena creata
+- [x] aprite Esplora Risorse
+- [x] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
+- [x] aprite Eclipse
+- [x] importate il progetto contenuto nella cartella `code`
+- [x] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
 
 Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi verrà ricordato dal docente), dovete pubblicare il codice seguendo la procedura:
-- [ ] da git-bash, fate `git status` per controllare i file modificati
-- [ ] aggiungete il file che volete pubblicare con `git add <nome-file>`
-- [ ] fate il commit delle modifiche con `git commit`
-- [ ] mettete un commento **significativo**
-- [ ] pubblicate il codice con `git push`
-- [ ] rispondete alla issue sul mio repository originale con il testo "Consegnato"
+- [x] da git-bash, fate `git status` per controllare i file modificati
+- [x] aggiungete il file che volete pubblicare con `git add <nome-file>`
+- [x] fate il commit delle modifiche con `git commit`
+- [x] mettete un commento **significativo**
+- [x] pubblicate il codice con `git push`
+- [x] rispondete alla issue sul mio repository originale con il testo "Consegnato"
 
 # Note implementazione progetto
 Implementate la tabella con i div che abbiamo visto a lezione, anche se (per ora) non è possibile renderizzarlo correttamente.
